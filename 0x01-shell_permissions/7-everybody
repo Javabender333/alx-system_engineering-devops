@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 155 hello
+chmod 155 hello
